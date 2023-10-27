@@ -1,0 +1,31 @@
+body{
+    font-family: Roboto, sans-serif;
+}
+
+.section-title{
+    font-family: Agbalumo, cursive;
+}
+
+.navbar{
+    background-color: #016ed5;
+}
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-link.active:hover{
+    color: #fff;
+}
+
+#cabecalho .nav .nav-link.active{
+    background-color: #fff;
+    color: #016ed5;
+}
+
+.text-colored {
+    color: #ead24f;
+}
+
+.carousel-item img {
+    height: 400px;
+    width: 100%;
+}
