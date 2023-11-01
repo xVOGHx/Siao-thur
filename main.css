@@ -1,5 +1,6 @@
 body{
     font-family: Roboto, sans-serif;
+    background-color: rgba(1, 100, 194, 0.1);
 }
 
 .section-title{
@@ -7,7 +8,7 @@ body{
 }
 
 .navbar{
-    background-color: #016ed5;
+    background-color: #0164c2;
 }
 #cabecalho .nav .nav-link,
 .navbar-brand,
@@ -18,14 +19,24 @@ body{
 
 #cabecalho .nav .nav-link.active{
     background-color: #fff;
-    color: #016ed5;
+    color:#ead24f;
+}
+
+.text-colored-t {
+    color:  #ead24f;
 }
 
 .text-colored {
-    color: #ead24f;
-}
+    color: #0164c2;
+} 
 
 .carousel-item img {
-    height: 400px;
+    height: 700px;
     width: 100%;
 }
+
+#img-rotas{
+    height: 250px;
+    width: 100%;
+}
+
