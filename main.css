@@ -61,3 +61,20 @@ body{
 .social-links li a {
     text-decoration: none;
 }
+
+@media (max-width: 767px) {
+    .carousel-item img {
+        height: 280px;
+    }
+
+    .btn-paradas {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    #fazendinha-rotas,
+    #coração-rotas,
+    #km09-rotas {
+        padding-bottom: 20px;
+    }
+}
