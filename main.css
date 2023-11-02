@@ -1,5 +1,9 @@
 body{
     font-family: Roboto, sans-serif;
+}
+
+#rotas,
+#fale-conosco{
     background-color: rgba(1, 100, 194, 0.1);
 }
 
@@ -40,3 +44,20 @@ body{
     width: 100%;
 }
 
+.btn-paradas{
+    color: #fff;
+    background-color: #0164c2;
+}
+
+.btn-paradas:hover{
+    background-color: #ead24f;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links li a {
+    text-decoration: none;
+}
