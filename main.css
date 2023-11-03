@@ -77,4 +77,8 @@ body{
     #km09-rotas {
         padding-bottom: 20px;
     }
+
+    .tab-pane .col-md-3 img{
+        max-width: 60%;
+    }
 }
